@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello! I'm Lovish
 
-<!--
-**NotLovishGarg/NotLovishGarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Currently pursuing B.tech in Computer Engineering at TIET.
+- 💼 Passionate about developing innovative solutions and contributing to open-source projects.
+- 🚀 Enthusiastic about Web Development, Web3 and AI/ML.
+- 🌱 Always eager to learn new technologies and enhance my skills.
+- 🛠️ Experienced in working with various programming languages and frameworks.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, Python, C#, HTML, CSS, SQL, Dart, C, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Keras, TensorFlow, NumPy, Pandas, Scikit
+- **Tools & Platforms:** Git, Docker, Visual Studio Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLovishGarg&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotLovishGarg&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/lgarg1) 
