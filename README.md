@@ -13,6 +13,8 @@
 - **Tools & Platforms:** Git, Docker, Visual Studio Code, Postman
 
 ## 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=NotLovishGarg&count_private=true&theme=react&border_radius=10)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLovishGarg&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotLovishGarg&layout=compact&theme=radical)
